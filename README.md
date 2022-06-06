@@ -1,1 +1,1 @@
-this is my first repository just tolearn git
+this is my first repository just to learn git . am done.
